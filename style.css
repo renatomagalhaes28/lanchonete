@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  list-style-type: none;
+}
+.titulo {
+  position: absolute;
+  top: 15%;
+  left: 35%;
+  color: yellow;
+}
+.cardapio {
+  bottom: 10px;
+  text-align: center;
+  padding-top: 20px;
+}
+.batata {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.hamburguer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+header {
+  background-color: chocolate;
+}
+.menu li {
+  text-align: center;
+  display: inline-block;
+  position: top;
+}
+.contato {
+  text-align: center;
+  position: absolute;
+  left: 35%;
+  top: 1%;
+}
+footer {
+  background-color: chocolate;
+}
